@@ -37,10 +37,3 @@
 <br />
 
 ---
-
-<details>
-  <summary>GitHub Stats</summary>
-
-  <img align="left" alt="Franko Prifti GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=frankoprifti&show_icons=true&hide_border=true" />
-
-</details>
