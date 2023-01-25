@@ -1,5 +1,4 @@
 ### Hi there, I'm Franko Prifti 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/frankoprifti?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=frankoprifti)
 
 
 ## I'm a UI/UX Designer, Mobile and Web Developer!!
