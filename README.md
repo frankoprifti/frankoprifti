@@ -1,12 +1,6 @@
 ### Hi there, I'm Franko Prifti 👋
 
-
-## I'm a UI/UX Designer, Mobile and Web Developer!!
-
-- 🔭 I just launched my first mobile apps on Google Play Store: [pub:Franko Prifti](https://play.google.com/store/search?q=pub:Franko%20Prifti&c=apps)
-- 🌱 I’m currently learning more Flutter And NodeJS for backend Developing
-- 🥅 2021 Goals: Create More And More Flutter Apps and publish them On Google Play Store
-- ⚡ Fun fact: Since I saw The Social Dilemma Movie I am trying to do my Apps with NO ADS AT ALL or an option to remove those for free (EX: Payment Tracker On Playstore)
+I am a skilled front-end developer with over 5 years of experience utilizing React and React Native to create dynamic and engaging user interfaces. I have a strong understanding of the latest web development technologies and am well-versed in all aspects of the software development life cycle. In addition to my expertise in React, I also have experience working with Node.js and am always eager to learn new technologies. I am dedicated to creating high-quality, responsive, and user-friendly applications that provide a seamless experience for users. I am looking for new and exciting opportunities to apply my skills and continue to grow as a developer.
 
 ### Connect with me:
 
