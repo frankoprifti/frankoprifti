@@ -4,7 +4,7 @@
 ## I'm a UI/UX Designer, Mobile and Web Developer!!
 
 - 🔭 I just launched my first mobile apps on Google Play Store: [pub:Franko Prifti](https://play.google.com/store/search?q=pub:Franko%20Prifti&c=apps)
-- 🌱 I’m currently learning more Flutter And NodeJS for backend Developing 🤣
+- 🌱 I’m currently learning more Flutter And NodeJS for backend Developing
 - 🥅 2021 Goals: Create More And More Flutter Apps and publish them On Google Play Store
 - ⚡ Fun fact: Since I saw The Social Dilemma Movie I am trying to do my Apps with NO ADS AT ALL or an option to remove those for free (EX: Payment Tracker On Playstore)
 
