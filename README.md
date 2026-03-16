@@ -10,7 +10,3 @@ I am a skilled front-end developer with over 7 years of experience utilizing Rea
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=frankoprifti&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frankoprifti&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=frankoprifti&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
